@@ -39,7 +39,7 @@ Linux:
 
   - Exemplo: cd projeto
   
-• Executar o comando: git clone https://github.com/SilakDesk/ProjetoFinal.git para ter acesso e clonar o repositório no github.
+• Executar o comando: git clone https://github.com/SilakDesk/ProjetoFinal.git para ter acesso e clonar o repositório do github para o terminal.
 
 •  Executar o comando: cd ProjetoFinal para acessar a pasta do repositório.
 
