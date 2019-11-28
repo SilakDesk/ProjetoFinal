@@ -44,3 +44,5 @@ Executar o comando: git clone https://github.com/SilakDesk/ProjetoFinal.git para
 Executar o comando: cd ProjetoFinal para acessar a pasta do repositório.
 
 Executar o comando: python projetof.py para executar o programa.
+
+Após isso o programa irá rodar.
