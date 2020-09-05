@@ -2,11 +2,7 @@ Projeto Final de Sistemas Operacionais
 
 Autor(es):
 
-Lucas Afonso da Silva RA: 21910231
-
-Lucas Oliveira de Menezes RA: 21903671
-
-Luciano Magalhães Garcia RA: 21907275
+Luciano 
 
 
 Como executar após baixar o programa:
